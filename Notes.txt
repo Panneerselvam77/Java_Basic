@@ -1,0 +1,6 @@
+Java
+Javac -> Java Compiler 
+
+** How Java Works **
+
+Java code -> Java Compiler (Javac) -> Byte Code -> JVM -> Java Virtual Meachine
